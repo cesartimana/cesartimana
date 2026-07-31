@@ -1,9 +1,10 @@
-# Descripción básica
+# Quién soy?
 
 Ingeniero químico | M.Sc. | CFD | Programación científica 
+
 Chemical Engineer | M.Sc. | CFD | Scientific Programming
 
-# Otra info
+# Un poco más sobre mí...
 
 * 🔭 Actualmente trabajo en mi doctorado: proyecto para simular flujo en medios porosos utilizando OpenPNM y OpenFOAM.
 * 💻 Lenguajes de programación: Python, C++.
