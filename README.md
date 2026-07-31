@@ -8,6 +8,6 @@ Chemical Engineer | M.Sc. | CFD | Scientific Programming
 
 * 🔭 Actualmente trabajo en mi doctorado: proyecto para simular flujo en medios porosos utilizando OpenPNM y OpenFOAM.
 * 💻 Lenguajes de programación: Python, C++.
-* 🧰 Herramientas y bibliotecas: OpenPNM, PoreSpy y OpenFOAM.
+* 🧰 Herramientas y bibliotecas: OpenFOAM OpenPNM y PoreSpy. 
 * 🗣️ Idiomas: español, português, english.
 * ❤️ La comida peruana, baile en pareja, viajar y los deportes extremos.
